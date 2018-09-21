@@ -1,4 +1,4 @@
-package pucrs.s2b.uitest;
+package pucrs.s2b.uitest.po;
 
 import static org.junit.Assert.assertEquals;
 import static org.openqa.selenium.support.ui.ExpectedConditions.presenceOfElementLocated;
